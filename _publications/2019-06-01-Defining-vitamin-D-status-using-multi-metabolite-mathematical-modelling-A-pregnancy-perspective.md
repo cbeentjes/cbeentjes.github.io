@@ -1,0 +1,13 @@
+---
+title: 'Defining vitamin D status using multi-metabolite mathematical modelling: A pregnancy perspective'
+collection: Publications
+permalink: /publication/2019-06-01-Defining-vitamin-D-status-using-multi-metabolite-mathematical-modelling-A-pregnancy-perspective
+excerpt: ''
+date: 2019-06-01
+venue: 'The Journal of Steroid Biochemistry and Molecular Biology'
+paper_authors: '<b>Casper Beentjes</b>,  J. Taylor-King,  A. Bayani,  C. Davis,  J. Dunster,  S. Jabbari,  G. Mirams,  C. Jenkinson,  M. Kilby,  M. Hewison,  J. Tamblyn'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0960076018305983'
+citation: ' <b>Casper Beentjes</b>,  J. Taylor-King,  A. Bayani,  C. Davis,  J. Dunster,  S. Jabbari,  G. Mirams,  C. Jenkinson,  M. Kilby,  M. Hewison,  J. Tamblyn, &quot;Defining vitamin D status using multi-metabolite mathematical modelling: A pregnancy perspective.&quot; The Journal of Steroid Biochemistry and Molecular Biology 190, 152-160 (2019).'
+---
+Abstract:
+Vitamin D deficiency is linked to adverse pregnancy outcomes such as pre-eclampsia (PET) but remains defined by serum measurement of 25-hydroxyvitamin D3 (25(OH)D3) alone. To identify broader changes in vitamin D metabolism during normal and PET pregnancies we developed a relatively simple but fully parametrised mathematical model of the vitamin D metabolic pathway. The data used for parametrisation were serum vitamin D metabolites analysed for a cross-sectional group of women (n = 88); including normal pregnant women at 1 st (NP1, n = 25) and 3rd trimester (NP3, n = 21) and pregnant women with PET (n = 22), as well as non-pregnant female controls (n = 20). To account for the effects various metabolites have upon each other, data were analysed using an ordinary differential equation model of the vitamin D reaction network. Information obtained from the model was then also applied to serum vitamin D metabolome data (n = 50) obtained from a 2nd trimester pregnancy cohort, of which 25 prospectively developed PET. Statistical analysis of the data alone showed no significant difference between NP3 and PET for serum 25(OH)D3 and 24,25(OH)2D3 concentrations. Conversely, a statistical analysis informed by the reaction network model revealed that a better indicator of PET is the ratios of vitamin D metabolites in late pregnancy. Assessing the potential predicative value, no significant difference between NP3 and PET cases at 15 weeks gestation was found. Mathematical modelling offers a novel strategy for defining the impact of vitamin D metabolism on human health. This is particularly relevant within the context of pregnancy, where major changes in vitamin D metabolism occur across gestation, and dysregulated metabolism is evidenced in women with established PET.
