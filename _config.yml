@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Casper Beentjes"
 title_separator          : "-"
 name                     : &name "Casper Beentjes"
-description              : &description "DPhil student, Mathematical Institute, Univeristy of Oxford"
+description              : &description "Postdoctoral researcher, Mathematical Institute, Univeristy of Oxford"
 url                      : "https://cbeentjes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cbeentjes/cbeentjes.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Casper Beentjes"
   avatar           : "31415926535897932384626433832795028841971693993751058_0.jpg"
-  bio              : "DPhil student, Mathematical Institute, University of Oxford"
+  bio              : "Postdoctoral researcher, Mathematical Institute, University of Oxford"
   location         : "Oxford, UK"
   employer         :
   pubmed           : 

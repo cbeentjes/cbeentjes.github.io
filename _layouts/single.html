@@ -53,6 +53,8 @@ layout: default
         <!-- Links to relevant PDFs-->
         {% if page.paperurl and page.preprinturl and page.collection == 'publications' %}
             <p><i class="fas fa-fw fa-file-pdf"></i> <a href="{{ page.paperurl }}">Published journal article</a> / <a href="{{ page.preprinturl}}">author pre-print</a></p>
+        {% elsif page.paperurl and page.preprinturl and page.collection == 'proceedings' %}
+            <p><i class="fas fa-fw fa-file-pdf"></i> <a href="{{ page.paperurl }}">Access article</a> / <a href="{{ page.preprinturl}}">author version</a></p>
         {% elsif page.paperurl and page.collection == 'publications' %}
             <p><i class="fas fa-fw fa-file-pdf"></i> <a href="{{ page.paperurl }}">Published journal article</a></p>
         {% elsif page.paperurl and page.collection == 'proceedings' %}

@@ -22,6 +22,8 @@ Education
 
 Employment
 ----
+* April 2020 - current: Postdoctoral Research Assistant (Computational Stochastics)
+  * Mathematical Institute, Universtiy of Oxford
 * Summer 2019: Intern
   * OxFORD Asset Management
 
@@ -37,7 +39,7 @@ Preprints
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Workshop and conference proceedings (non-peer reviewed)
+Workshop and conference proceedings
 ----
   <ul>{% for post in site.proceedings reversed %}
     {% include archive-single-cv.html %}

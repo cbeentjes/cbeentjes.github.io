@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 pub_last_update: 2020-04-01
 pre_last_update: 2020-04-01
-pro_last_update: 2020-04-01
+pro_last_update: 2020-04-28
 ---
 
 {% if site.author.googlescholar %}
@@ -27,7 +27,7 @@ Publications
   {% include archive-single-publication.html %}
 {% endfor %}</ol>
 
-Conference and workshop proceedings (non-peer reviewed)
+Conference and workshop proceedings
 =====
 <sub><sup>(last updated {{ page.pro_last_update | default: "2020-04-01" | date: "%-d %B %Y" }})</sup></sub>
 <ul>{% for post in site.proceedings reversed %}

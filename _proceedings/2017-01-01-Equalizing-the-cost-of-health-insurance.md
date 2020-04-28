@@ -6,7 +6,8 @@ excerpt: ''
 date: 2017-01-01
 venue: 'Scientific Proceedings of the 126th European Study Group with Industry'
 paper_authors: '<b>Casper Beentjes</b>,  Alessandro Bucchianico,  Christian Hamster,  Ajinkya Kadu,  Irene Man,  Keith Myerscough,  Marta Regis,  Omar Richardson'
-paperurl: 'https://cbeentjes.github.io/files/Preprints/SWI2017_ScientificProceedings.pdf'
+paperurl: 'https://www.swi-wiskunde.nl/swi2017/wp-content/uploads/sites/4/2018/04/SWI2017_ScientificProceedings.pdf'
+preprinturl: 'https://cbeentjes.github.io/files/Preprints/SWI2017_ScientificProceedings.pdf'
 citation: ' <b>Casper Beentjes</b>,  Alessandro Bucchianico,  Christian Hamster,  Ajinkya Kadu,  Irene Man,  Keith Myerscough,  Marta Regis,  Omar Richardson, &quot;Equalizing the cost of health insurance.&quot; Scientific Proceedings of the 126th European Study Group with Industry (2017).'
 ---
 Abstract:
