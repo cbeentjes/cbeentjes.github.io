@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-last_update: 2020-04-01
+last_update: 2020-07-14
 redirect_from:
   - /resume
 ---
@@ -15,10 +15,10 @@ Curriculum Vitae [**PDF**](https://cbeentjes.github.io/files/CV/CVBeentjes.pdf)
 
 Education
 ----
+* DPhil in Mathematics, University of Oxford, 2020
+* MSc in Mathematical Modelling and Scientific Computing, University of Oxford, 2015
 * BSc in Mathematics, Leiden University, 2014
 * BSc in Physics, Leiden University, 2014
-* MSc in Mathematical Modelling and Scientific Computing, University of Oxford, 2015
-* DPhil in Mathematics, University of Oxford, 2020 (expected)
 
 Employment
 ----
